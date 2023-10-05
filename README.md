@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @tushar21
-- 👀 I’m interested in Full stack development using latest stack
-- 🌱 I’m currently learning DevOps tools like Kubernetes, Docker, etc
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @tushar21. 
+- 👀 Experienced in full stack development using Javascript stack
+- Worked on Web and Mobile App development using Node.js, Nest.js, Docker, AWS Services, React, React Native.
+- 🌱 I’m currently learning DevOps tools like Kubernetes, etc
+- 💞️ I’m looking to collaborate on projects where i can utilize my skill sets
 - 📫 How to reach me : Email(tnikam21@gmail.com)
 
 <!---
